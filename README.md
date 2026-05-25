@@ -4,6 +4,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
 </picture>
 
+![Pacman contribution graph](https://github.com/HaiYeuEmm/HaiYeuEmm/blob/output/pacman-contribution-graph.svg)
+
 
 <div align="center">  
 <a href="https://www.instagram.com/if.vtaih_/">
