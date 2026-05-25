@@ -11,6 +11,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/pacman-contribution-graph.svg">
 </picture>
 
+![Breakout](https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/breakout-contribution-graph.svg)
 
   
 <a href="https://www.instagram.com/if.vtaih_/">
