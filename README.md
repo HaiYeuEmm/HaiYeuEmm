@@ -22,6 +22,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/galaga-contribution-graph.svg">
   <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/galaga-contribution-graph.svg">
 </picture>
+
 <div align="center">  
 <a href="https://www.instagram.com/if.vtaih_/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
