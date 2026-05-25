@@ -5,7 +5,7 @@
 </picture>
 
 
-  
+<div align="center">  
 <a href="https://www.instagram.com/if.vtaih_/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
@@ -25,3 +25,4 @@
 <a href="https://www.threads.net/@if.vtaih_">
 <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white">
 </a>
+</div>
