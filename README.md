@@ -11,8 +11,17 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/pacman-contribution-graph.svg">
 </picture>
 
-![Breakout](https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/breakout-contribution-graph.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/breakout-contribution-graph.svg">
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/galaga-contribution-graph.svg">
+</picture>
   
 <a href="https://www.instagram.com/if.vtaih_/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
