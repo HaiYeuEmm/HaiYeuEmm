@@ -1,9 +1,9 @@
-<div align="center"> 
+<!-- <div align="center"> 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/HaiYeuEmm/HaiYeuEmm/output/snake.svg" />
-</picture>
+</picture> -->
 
 
 
